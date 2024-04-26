@@ -27,3 +27,4 @@ The ensuing table encapsulates the optimal parameters and corresponding accuracy
 
 ## Convergence Graph
 
+![Relative Image](graph.png "Optional Title")
